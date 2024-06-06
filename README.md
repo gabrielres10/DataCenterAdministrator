@@ -1,4 +1,4 @@
----
+
 
 # Herramienta de Administración para Data Centers
 Este proyecto consiste en dos scripts que proporcionan herramientas interactivas de administración para Data Centers, uno escrito en PowerShell y otro en Bash. Ambos scripts ofrecen un menú interactivo con varias opciones para ayudar en las tareas de administración de un Data Center, incluyendo:
@@ -18,4 +18,4 @@ Este proyecto consiste en dos scripts que proporcionan herramientas interactivas
   
 ¡Disfruta administrando tu Data Center de manera más eficiente con estas herramientas!
 
----
+
